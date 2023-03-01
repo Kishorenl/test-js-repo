@@ -1,8 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 
-/* The main app here.
-*/
+/**
+ * Gets the value of an input.  The value is also trimmed.
+ *
+ * @param     name     name of the input to get
+ * @param     options  optional. See InputOptions.
+ * @returns   string
+ */
 function App() {
   return (
     <div className="App">
