@@ -2,11 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 
 /**
- * Gets the value of an input.  The value is also trimmed.
- *
- * @param     name     name of the input to get
- * @param     options  optional. See InputOptions.
- * @returns   string
+ * App instance of the create react app for building a new cool app
+ * @returns void
  */
 function App() {
   return (
