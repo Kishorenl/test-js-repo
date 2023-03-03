@@ -5,6 +5,14 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 /**
+ * A quite wonderful function.
+ * @param {object} - Privacy gown
+ * @param {object} - Security
+ * @returns {survival}
+ */
+function protection (cloak, dagger) {}
+
+/**
  * Create react app is used to build this package.
  *
  * @returns void
